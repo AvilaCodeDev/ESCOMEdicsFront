@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Clonar el proyecto:
+
+Clonar el proyecto mediante https con el comando git clone https://github.com/AvilaCodeDev/ESCOMEdicsFront
+Una vez descargados los ficheros, correr el comando:
+### npm install
+para instalar todas las dependendencias del proyecto
+
 ## Available Scripts
 
 In the project directory, you can run:
